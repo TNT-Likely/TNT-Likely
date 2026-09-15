@@ -1,18 +1,20 @@
-# Hey, I'm TNT-Likely
+# Hey, I'm TNT-Likely 👋
 
-I build small, useful products across frontend, full-stack, mobile, and AI.
+> I turn fuzzy ideas into useful, self-hostable products with code and AI.
 
-Most of my work is around local-first apps, self-hosted tools, data products, and agentic workflows.
+I build across AI, full-stack, mobile, and frontend, mostly around agentic workflows, local-first apps, self-hosted tools, and data products.
 
-Currently working with Flutter, React, Vue/Nuxt, Python/FastAPI, TypeScript, and a lot of real-world product details.
+I care about clean product loops, boring reliability, and the small details that make software feel pleasant to use.
 
-<div align="center">
+<p>
+  <kbd>🤖 AI agents</kbd>
+  <kbd>🐍 Python / FastAPI</kbd>
+  <kbd>🟦 TypeScript</kbd>
+  <kbd>🌱 Local-first</kbd>
+  <kbd>📱 Flutter</kbd>
+  <kbd>⚛️ React</kbd>
+  <kbd>💚 Vue / Nuxt</kbd>
+  <kbd>🐳 Docker</kbd>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TNT-Likely&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-Likely&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TNT-Likely&theme=tokyonight&hide_border=true" />
-
-</div>
+<sub>The pinned repositories below tell the longer story.</sub>
