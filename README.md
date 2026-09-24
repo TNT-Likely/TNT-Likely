@@ -1,10 +1,8 @@
 # Hey, I'm TNT-Likely 👋
 
-> I turn fuzzy ideas into useful, self-hostable products with code and AI.
+> I build useful products with AI, code, and care for the details.
 
-I build across AI, full-stack, mobile, and frontend, mostly around agentic workflows, local-first apps, self-hosted tools, and data products.
-
-I care about clean product loops, boring reliability, and the small details that make software feel pleasant to use.
+I work across AI agents, web, and mobile, with a soft spot for local-first and self-hosted software.
 
 <p>
   <kbd>🤖 AI agents</kbd>
